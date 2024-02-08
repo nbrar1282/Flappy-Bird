@@ -1,0 +1,8 @@
+[game_settings]
+width = 800
+height = 600
+bg_color = [ 213, 111, 190,]
+max_vspeed = 5
+jump_boost = 10
+pipe_color = [ 210, 210, 220,]
+speed = 20
